@@ -1,0 +1,20 @@
+{
+  "name": "ecmajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "cursopractico"
+  ],
+  "author": "Duvan Vanegas <duvan.vanegas741@pascualbravo.edu.co>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
