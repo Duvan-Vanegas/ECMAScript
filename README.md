@@ -1,17 +1,17 @@
 # ECMAScript
 Explore the evolution of ECMAScript through this project that covers versions from ECMAScript 6 to the most recent. Discover new features, improvements, and changes in each iteration of the JavaScript standard. This repository provides useful guidance and resources to understand and apply different latest bits of the language.
 
-# ECMAScript Evolution Project
+# ECMAScript Project
 
-Welcome to ECMAScript Evolution, a project dedicated to exploring ECMAScript standards from version 6 to the latest. This repository provides detailed information on key features, improvements, and changes introduced in each version, giving developers a comprehensive view of JavaScript's evolution.
+Welcome to ECMAScript, a project dedicated to exploring ECMAScript standards from version 6 to the latest. This repository provides detailed information on key features, improvements, and changes introduced in each version, giving developers a comprehensive view of JavaScript's evolution.
 
 ## Project Contents
 
 1. **Detailed Documentation:** Find in-depth files for each version, including explanations of new features, code examples, and compatibility considerations.
 
-2. **Useful Resources:** Access links and resources that will help you make the most of ECMAScript capabilities, such as migration guides and browser compatibility references.
+2. **Useful Resources:** Access links and resources that will help you make the most of ECMAScript capabilities.
 
-3. **Practical Examples:** Discover practical examples demonstrating how to apply the latest features in your code, facilitating the adoption of cutting-edge technologies.
+3. **Practical Examples:** Discover practical examples demonstrating how to apply the latest features in your code.
 
 ## How to Contribute
 
